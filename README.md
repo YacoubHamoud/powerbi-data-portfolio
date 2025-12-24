@@ -36,3 +36,7 @@ permettant une exploration simple et efficace des données.
 ## 📸 Aperçu du tableau de bord
 (voir le dossier *captures d’écran*)
 
+## 📬 Contact
+- LinkedIn : www.linkedin.com/in/yacoub-hamoud-569572176
+- Email : yacoubsidbrahim@gmail.com
+
